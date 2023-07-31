@@ -2,3 +2,6 @@ Things to learn ----
 
 Python with selenium concepts ----
 
+-- & also learning the git commands
+
+
